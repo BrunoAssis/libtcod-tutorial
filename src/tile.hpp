@@ -1,4 +1,4 @@
 struct Tile {
     bool canWalk;
-    Tile() : canWalk(true) {}
+    Tile() : canWalk(false) {}
 };
