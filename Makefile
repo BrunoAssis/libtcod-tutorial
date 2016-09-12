@@ -12,7 +12,7 @@ COMPILER_FLAGS = -Wall
 LINKER_FLAGS = -ltcod -ltcodxx
 
 #OBJ_NAME specifies the name of our exectuable
-OBJ_NAME = tuto
+OBJ_NAME = game
 
 # OS X specific settings
 INCLUDE_DIR = -Iinclude -I/usr/local/include
